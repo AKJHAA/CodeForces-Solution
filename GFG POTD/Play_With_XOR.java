@@ -15,7 +15,7 @@ At index 2, arr[2] or arr[3] = 3
 At index 4, No element is left So, it will remain as it is.
 New Array will be {11, 11, 3, 3, 3}.*/
 
-public class Play_With_XO {
+public class Play_With_XOR {
     // Function for finding maximum and value pair
     public static int[] game_with_number (int arr[], int n) {
         // Complete the function
